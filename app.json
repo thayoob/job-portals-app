@@ -5,6 +5,12 @@
       "bundler": "metro"
     },
     "name": "my-app",
-    "slug": "my-app"
+    "slug": "job-portals-app",
+    "extra": {
+      "eas": {
+        "projectId": "9e06b0d0-9545-4aec-a179-4f1ff277a928"
+      }
+    },
+    "owner": "thayoob"
   }
 }
